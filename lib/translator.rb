@@ -1,6 +1,6 @@
 
-def load_library(element)
-  
+def load_library(file_path)
+  {}
 end
 
 def get_japanese_emoticon
